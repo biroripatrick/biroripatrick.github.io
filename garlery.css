@@ -1,0 +1,32 @@
+.foods12 ul{
+    display:flex;
+    flex-direction:row;
+    margin-left: 200px;
+    width: 200px;
+}
+.foods12 li a{
+    color:rgb(118, 115, 115);
+    font-size: 20px;
+}
+.foods12 li a:hover{
+    color: aqua;
+    cursor: pointer;
+    
+}
+.Eduction123{
+    width: 450px;
+    border-radius: 10px;
+    background-color: rgb(240, 237, 232);
+}
+.breaks33{
+    width: 300px;
+    border-radius: 10px;
+    background-color: rgb(243, 240, 234);
+    margin-left: 23px; 
+}
+.breaks0{
+    width: 300px;
+    border-radius: 10px;
+    background-color: rgb(243, 240, 234);
+    margin-left: 23px; 
+}

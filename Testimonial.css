@@ -1,0 +1,53 @@
+.borders1 img{
+    /* border: 3px solid rgb(232, 32, 32); */
+    border-radius: 50%;
+    margin-top:6px;
+    margin-left:30px;
+}
+.borders1{
+    display: flex;
+}
+.year15{
+    display: flex;
+}
+.Education12{
+    width: 450px;
+    border-radius: 10px;
+    background-color: rgb(240, 237, 232);
+}
+.breaks3{
+    width: 450px;
+    border-radius: 10px;
+    background-color: rgb(243, 240, 234);
+    margin-left: 23px;
+} 
+.year15 img{
+    /* border: 3px solid rgb(233, 28, 28); */
+    border-radius: 50%;
+    margin-top:6px;
+    margin-left:30px;
+}
+.Computer17{
+    margin-left:17px;
+    margin-top: 20px;
+    color: rgb(93, 92, 91);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.numbers1{
+    margin-left: 20px;
+}
+.Computer340{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.bobo1{
+    margin-left:10px;
+}
+.Computer340{
+    color: rgb(93, 92, 91);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}

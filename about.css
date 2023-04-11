@@ -1,0 +1,113 @@
+
+.flex-container1{
+    display: flex;
+    background-color:white;
+    margin:2rem;
+    margin-left: 200px;
+    width: 1023px;
+  }
+
+  .experience{
+    margin: 10px;
+    padding: 20px;
+    color:rgb(21, 21, 21);
+  }
+  .scroll1{
+    margin-top: 70px;
+    margin-left: 230px;
+  }
+  .happy{
+    margin: 10px;
+    padding: 20px;
+    font-size: 16px;
+    color:rgb(65, 170, 44);
+  }
+  .project{
+    margin: 10px;
+    padding: 20px;
+    font-size: 16px;
+    color:rgb(65, 170, 44);
+  }
+  .get{
+    margin: 10px;
+    padding: 20px;
+    font-size: 16px;
+    
+  }
+  .plus{
+    font-size:50px;
+    margin-left:10px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(63, 61, 61);
+  }
+  .your{
+    color: rgb(114, 113, 113);
+    font-size:20px;
+    font-style: normal;
+    margin-left:10px;
+  }
+  .pluss{
+    font-size:50px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(63, 61, 61);
+    margin-left:40px;
+  }
+  .yours{
+    color: rgb(114, 113, 113);
+    font-size:20px;
+    font-style: normal;
+    margin-left:40px;
+  }
+  .plusy{
+    font-size:50px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(63, 61, 61);
+    margin-left:70px;
+  }
+  .youris{
+    color: rgb(114, 113, 113);
+    font-size:20px;
+    font-style: normal;
+    margin-left:70px;
+  }
+  .plusies{
+    font-size:50px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(63, 61, 61);
+    margin-left:70px;
+  }
+  .yourr{ 
+    color: rgb(114, 113, 113);
+    font-size:20px;
+    font-style: normal;
+    margin-left: 70px;
+
+  }
+  
+  .verticalLine {
+    border-left:2px solid #c1bebe;
+    height: 200px;
+  }
+
+  
+.know{
+    margin-left:380px;
+    width: 200px;
+    color: black;
+    font-size:22px;
+    height:60px;
+}
+.line{
+    margin-top: -40px;
+    margin-left:400px;
+    display: block;
+    height:60px;
+    border: 0;
+    width: 100px;
+    border-top: 9px solid #09dcb5;
+
+}

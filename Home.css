@@ -1,0 +1,76 @@
+.container{
+    margin-top:-130px;
+    background-color: rgb(250, 247, 247);
+    width:1300px;
+    height:900px;
+}
+.header{ 
+    background-color: black;
+    width: 500px;
+    height: 593px;
+}
+/* .desiger{
+    margin-top: -500px;
+} */
+.head-container{
+    background-image: url(jojo.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.header-logo{
+        color: aliceblue;
+        font-size: 40px;
+        font-weight: 100;
+        margin-left: 2rem;
+}
+/* p{
+    margin-left: 750px;
+}
+.kkoo{
+    margin-left: 750px;
+}
+.koko{
+    margin-left: 750px;
+} */
+ul li {
+    margin:1.20rem;
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    margin: 4rem;
+    font-weight:bold;
+    color: aliceblue;
+    font-size: 20px;
+}
+ul li a:hover{
+    color: rgb(49, 167, 167);
+    cursor: pointer;
+}
+span{
+    color: aliceblue;
+    margin-left:1.56rem;
+    font-size:30px;
+    font-weight:bold;
+}
+img{
+    border: 7px solid rgb(53, 52, 52);
+    border-radius: 50%;
+    margin-top: 24px;
+}
+.icons{
+    color: aliceblue;
+    margin-left: 5rem;
+    font-weight:bold;
+}
+.icons  i {
+    margin:1rem;
+    width: 41px;
+    height: 31px;
+    font-size:25px;
+}
+li:hover{
+    color: aqua;
+}

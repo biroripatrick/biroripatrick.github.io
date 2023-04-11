@@ -1,0 +1,238 @@
+.Ressume{
+    margin-left:380px;
+    width: 200px;
+    color: black;
+    font-size:27px;
+    height:60px;
+    font-weight: bolder;
+  }
+  .line2{
+    margin-top: -40px;
+    margin-left:400px;
+    display: block;
+    height:60px;
+    border: 0;
+    width: 100px;
+    font-size: 60px;
+    border-top: 8px solid #20c997;
+    background-color: #20c997;
+  
+  }
+  .Education1{
+    width: 450px;
+    border-radius: 10px;
+    border: 2px solid rgb(208, 200, 200);
+  }
+  
+  .borders{
+    margin-top: 24px;
+    margin-left:34px;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px 7px 7px;
+    background-color:  #20c997;
+  }
+  .year1{
+    margin-top: 24px;
+    margin-left:34px;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px 7px 7px;
+    background-color:  #20c997;
+  }
+  .developer1, .business1, .market1{
+    margin-top: 24px;
+    margin-left:34px;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px 7px 7px;
+    background-color:  #20c997;
+  }
+  .healing, .blood{
+    margin-left: 10px;
+    color: aliceblue;
+  }
+  .Holiday{
+    margin-left: 10px;
+    color: aliceblue;
+  }
+  .year4{
+    margin-top: 24px;
+    margin-left:34px;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px 7px 7px;
+    background-color:  #20c997;
+  }
+  .quality{
+    margin-left: 10px;
+    color: aliceblue;
+  }
+  .Product, .Master, .Master1{
+    margin-left:34px;
+    margin-top: 14px;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-style: popins,sans-serif;
+    font-weight: bold;
+  }
+  .Dribbble, .Harvard, .Harvard12{
+    color: red;
+    margin-left:34px;
+    margin-top: 14px;
+    font-size: 15px;
+  }
+  .degree{
+    margin-left:34px;
+    margin-top: 14px;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-style: popins,sans-serif;
+    font-weight: bold;
+  }
+  .calfonia{
+    color: red;
+    margin-left:34px;
+    margin-top: 14px;
+    font-size: 15px;
+  }
+  .numbers{
+    margin-left: 10px;
+    color: aliceblue;
+  }
+  .Computer1{
+    margin-left:34px;
+    margin-top: 14px;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-style: popins,sans-serif;
+    font-weight: bold;
+  }
+  .nation1{
+    color: red;
+    margin-left:34px;
+    margin-top: 14px;
+    font-size: 15px;
+  }
+  .bobo{
+    margin-left: 10px;
+    color: aliceblue;
+  }
+  .nations{
+    color: red;
+  }
+  .Computer{
+    margin-left:34px;
+    margin-top: 14px;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-style: popins,sans-serif;
+    font-weight: bold;
+  }
+  .nations{
+    margin-left:34px;
+    margin-top: 14px;
+    font-size: 15px;
+  }
+  .liquid1, .hard1, .havard1, .hazard12{
+    margin-left:34px;
+    margin-top: 17px;
+    font-family: 'Times New Roman';
+    font-style: popins,sans-serif;
+    font-size:17px;
+  }
+  .interest1, .fluid1{
+    margin-left:34px;
+    margin-top: 17px;
+    font-family: 'Times New Roman';
+    font-style: popins,sans-serif;
+    font-size:17px;
+  }
+  .breaks{
+    margin-left: 40px;
+    width: 450px;
+    border-radius: 10px;
+    border: 2px solid rgb(208, 200, 200);
+  }
+  .UI1{
+    width: 450px;
+    border-radius: 10px;
+    border: 2px solid rgb(208, 200, 200);
+  }
+  .App1{
+    margin-left: 40px;
+    border-radius: 10px;
+    border: 2px solid rgb(208, 200, 200);
+    width: 450px;
+  }
+  .Analysis1{
+    border-radius: 10px;
+    border: 2px solid rgb(208, 200, 200);
+    width: 450px;
+  }
+  .Marketing1{
+    margin-left: 40px;
+    width: 450px;
+    border-radius: 10px;
+    border: 2px solid rgb(208, 200, 200);
+  }
+  .years{
+    margin-right: 100px;
+  }
+  .foods{
+    display: flex;
+    /* background-color: #20c997; */
+  }
+  .skill12{
+    display: flex;
+  }
+  .Skill{
+    /* background-color: dimgrey; */
+    width: 450px;
+  }
+  .HTML{
+    margin-left: 40px;
+    background-color:white;
+    width: 450px;
+  }
+/* .cv1{
+    background-color: yellowgreen;
+    
+} */
+.cv1 ul{
+  background-color: rgb(139, 143, 146);
+  width: 150px;
+  height: 60px;
+  
+}
+.cv1 ul{
+    margin-left: 370px;
+    border-radius: 26px;
+}
+.cv1 ul a{
+  margin-top: 30px;
+}
+.cv1 ul a:hover{
+  color: aqua;
+  cursor: pointer;
+}
+.logical a{
+  color: aliceblue;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: bolder;
+}
+.ratio{
+    font-weight: 500;
+    font-size: 23px;
+    font-style: normal;
+    margin-left: 1.0px;
+    
+}
+.years{
+    font-weight: 500;
+    font-size: 23px;
+    font-style: normal;
+    margin-left: 1.0px;
+    margin-right: 345px;
+}
