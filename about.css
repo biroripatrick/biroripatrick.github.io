@@ -89,18 +89,23 @@
 
   }
   
-  .verticalLine {
-    border-left:2px solid #c1bebe;
-    height: 200px;
-  }
+.line1{
+  margin-left:30px;
+  margin-top: -1px;
+  width: 60px;
+  border-top: 5px solid #4ae4b6;
+  background-color: #20c997;
+}
+.know12{
+  margin-top: -85px;
+  margin-left:380px;
+}
+.holders{
+  margin-left:200px;
+  /* width: 100%; */
+  color: rgba(126, 122, 122, 0.787);
+  font-size: 100px;
 
-  
-.know{
-    margin-left:380px;
-    width: 200px;
-    color: black;
-    font-size:22px;
-    height:60px;
 }
 /* .ALLW{
   margin-left:100px;
@@ -115,5 +120,4 @@
     border: 0;
     width: 100px;
     border-top: 9px solid #09dcb5;
-
 }

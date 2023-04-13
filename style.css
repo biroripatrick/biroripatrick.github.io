@@ -180,7 +180,8 @@ li a{
   .flex1{
     width: 400px;
     color: black;
-    
+    font-style: popins,sans-serif;
+    margin-top: 80px;
   }
   .flex2{
     width: 600px;
