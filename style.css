@@ -1,5 +1,5 @@
-body{
-    background-image: url(jojo.png);
+.main{
+    background-image: url(back.jpeg);
     background-size: cover;
     background-attachment: fixed;
     height: 609px;
@@ -9,19 +9,18 @@ body{
 .content{
     background-color: rgb(22, 22, 22);
     width: 280px;
-    height: 670px;
+    height: 650px;
     position: fixed;
-
 }
 .image{
     color: aliceblue;
     font-size: 40px;
     font-weight: bold;
-    margin-left:80px;
+    text-align: center;
 }
 .paragraph{
     color: aliceblue;
-    margin-left:70px;
+    text-align: center;
     font-size:30px;
     font-weight:bold;
 }
@@ -64,7 +63,7 @@ body{
 }
 .container{
     color: aliceblue;
-    margin-left:5rem;
+    text-align: center;
 }
 ul{
     list-style: none;
