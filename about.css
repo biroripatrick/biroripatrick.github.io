@@ -15,7 +15,7 @@
   .scroll1{
     margin-top: 100px;
     margin-left: 230px;
-    background-color: rgb(193, 31, 31);
+    /* background-color: rgb(193, 31, 31); */
   }
   .happy{
     margin: 10px;
@@ -101,9 +101,9 @@
   margin-left:380px;
 }
 .holders{
-  margin-left:200px;
-  /* width: 100%; */
-  color: rgba(126, 122, 122, 0.787);
+  margin-left:230px;
+  width: 50%;
+  color: rgba(68, 68, 68, 0.155);
   font-size: 100px;
 
 }
